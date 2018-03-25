@@ -2,7 +2,9 @@ package cn.tedu.action;
 
 public class HelloAction {
 	/*
-	 * ·½·¨Ãû±ØĞëÎªexecute()
+	 * ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Îªexecute()
+	 * 
+	 * execute æ±‰å­—æ¥ä¸€ä¸ª
 	 */
 	private String message;
 	public void setMessage(String message) {
